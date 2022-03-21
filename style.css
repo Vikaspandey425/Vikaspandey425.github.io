@@ -360,16 +360,7 @@
 	background-position: center;
 }
 
-@media (min-width: 0px) and (max-width: 400px) {
-	#personal-area {
-		background-image: url('images/image3.png');
-		background-size: cover;
-		background-repeat: no-repeat;
-		height: 680px;
-		position:relative;
-		background-position: center;
-	}
-}
+
 #personal-area .personal-single {
 	position: relative;
 	z-index: 3;
