@@ -14,8 +14,11 @@
 }
 /* Logo */
 #header .logo {
-	padding-top: 17px;
+	padding-top: 9px;
+	width: 50px;
+	height: 50px;
 }
+
 #header .logo a {
 	color: #fff;
 	text-transform: capitalize;
@@ -355,6 +358,17 @@
 	height: 680px;
 	position:relative;
 	background-position: center;
+}
+
+@media (min-width: 0px) and (max-width: 400px) {
+	#personal-area {
+		background-image: url('images/image3.png');
+		background-size: cover;
+		background-repeat: no-repeat;
+		height: 680px;
+		position:relative;
+		background-position: center;
+	}
 }
 #personal-area .personal-single {
 	position: relative;
