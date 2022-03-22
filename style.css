@@ -716,7 +716,35 @@
 /*=======================
 	End Service
 =========================*/
+/*=======================
+	study CSS
+=========================*/
+section.logo-test {
+    padding: 72px 0px;
+    overflow: hidden;
+    margin-top: 10px;
+}
+.logos {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.logos figure img{
+    max-width: 100%;
+    height: auto;
+    width: 180px;
+    padding: 25px;
 
+    cursor: pointer;
+}
+  .bg{
+	background: #F5F5F5;
+	margin: 15px;
+	box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+} 
+/*=======================
+	End study
+=========================*/
 /*=======================
     Portfolio CSS
 =========================*/
