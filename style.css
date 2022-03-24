@@ -584,6 +584,7 @@
 }
 #about-me .single-image{
 	position:relative;
+	height: 320px;
 }
 #about-me .social {
 	width: 100%;
