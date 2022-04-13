@@ -1254,7 +1254,7 @@ section.logo-test {
 /*=======================
 	Testimonial CSS
 =========================*/
-#testimonials {
+/* #testimonials {
 	background: url('images/back1.jpg');
 	background-size: cover;
 	background-position: center;
@@ -1274,7 +1274,7 @@ section.logo-test {
 	background:#000;
 	opacity:0.8;
 	content:"";
-}
+} */
 /* 
 #testimonials .testimonial-carousel{
 	position:relative;
@@ -2000,7 +2000,7 @@ body {
 	padding-bottom:30px;
 	height:100px;
   } */
- 
+/*  
   #ourclients .clients-wrap {
 	display: block;
 	width: 95%;
@@ -2035,5 +2035,5 @@ body {
 	-moz-transition: 0 linear left;
 	transition: 0 linear left;
   }
- 
+  */
 
