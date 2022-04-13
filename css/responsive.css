@@ -155,8 +155,8 @@
 }
 #header .slicknav_btn {
 	background: transparent;
-	padding: 6px;
-	margin: -31px 0px 0 0px;
+	padding: 10px;
+	margin: -43px 0px 0 0px;
 }
 #header .slicknav_menutxt {
 	text-shadow:none;
@@ -186,7 +186,7 @@
 	color:#ED5F55;
 }
 #header.sticky .slicknav_btn{
-	background:#ED5F55;
+	background:#ff9800;
 	color:#fff;
 }
 #header .social-icon{
